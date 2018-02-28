@@ -20,3 +20,5 @@ You first gotta use pull requests again. Once you located the button you have to
 correct, then you have to create a pull request, and on the next page you have to confirm it.
 All of that could have been solved with a "idgaf just update my damn copy so I can suggest an edit to the original" button,
 but no, welcome to Github.
+
+I might add more to this in the future on my travel through the amzingly complicated world of GH
